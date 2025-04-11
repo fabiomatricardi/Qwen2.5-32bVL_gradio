@@ -20,9 +20,9 @@ pip install gradio openai pillow
 ```
 
 ### Run the app
-Clone the repo, or download the file [gr_llama4_Scout.py](https://github.com/fabiomatricardi/Llama4Scout_gradio/raw/main/gr_llama4_Scout.py)
+Clone the repo, or download the file [gr_QwenVL32b.py](https://github.com/fabiomatricardi/Qwen2.5-32bVL_gradio/raw/main/gr_QwenVL32b.py)
 
 From the terminal, with the `venv` activated, run
 ```
-python gr_llama4_Scout.py
+python gr_QwenVL32b.py
 ```
