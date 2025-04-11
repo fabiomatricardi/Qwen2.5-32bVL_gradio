@@ -26,3 +26,11 @@ From the terminal, with the `venv` activated, run
 ```
 python gr_QwenVL32b.py
 ```
+
+
+
+The final app
+
+If you clear the History, only the messages going to the API are reset, the displayed messages are not lost.
+
+<img src='https://github.com/fabiomatricardi/Llama4Scout_gradio/raw/main/Llama4ScoutImages-gradio.gif' width=1000>
