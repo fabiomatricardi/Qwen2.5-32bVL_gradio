@@ -33,4 +33,4 @@ The final app
 
 If you clear the History, only the messages going to the API are reset, the displayed messages are not lost.
 
-<img src='https://github.com/fabiomatricardi/Llama4Scout_gradio/raw/main/Llama4ScoutImages-gradio.gif' width=1000>
+<img src='https://github.com/fabiomatricardi/Qwen2.5-32bVL_gradio/raw/main/Qwen2.5VLmages-gradio.gif' width=1000>
